@@ -1,5 +1,5 @@
 # CodeHelp-DSA-Busted-Series
-Hello Jee,
+Hi There !,
 
 This is code repo for the programming ques taught under Codehelp's DSA Busted Series.
 
